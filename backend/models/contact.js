@@ -2,6 +2,9 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
+//Author: Jaskirat
+//Description: Lab-5
+
 //Create the contact model schema
 const contactSchema = new Schema({
   name: {

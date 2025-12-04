@@ -1,5 +1,8 @@
 import { Link } from "react-router-dom";
 
+//Author: Jaskirat
+//Description: Lab-5
+
 export default function NotAuthorized() {
   return (
     <div>

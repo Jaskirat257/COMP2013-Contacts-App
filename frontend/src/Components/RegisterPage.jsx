@@ -2,6 +2,9 @@ import FormComponent from "./FormComponent";
 import axios from "axios";
 import { useState } from "react";
 
+//Author: Jaskirat
+//Description: Lab-5
+
 export default function RegisterPage() {
   // States
   const [formData, setFormData] = useState({ username: "", password: "" });
